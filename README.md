@@ -1,6 +1,7 @@
 Initial template autoload, for php projects with [Bramus/router](https://github.com/bramus/router)
 
 ```cmd
+composer install
 php -S localhost:8000
 ```
 
